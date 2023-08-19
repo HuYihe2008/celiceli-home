@@ -15,11 +15,12 @@ actions:
     link: ./demo/
     type: primary
 
+  - text: 请帮助我们选择！强烈期待您的反馈！ 💡
+    link: https://www.bilibili.com/opus/831566249026650212
+    type: primary
+    
   - text: 文档
     link: ./guide/
-
-  - text: 请帮助我们选择！强烈期待您的反馈！
-    link: https://www.bilibili.com/opus/831566249026650212
 
 highlights:
   - header: 易于安装
