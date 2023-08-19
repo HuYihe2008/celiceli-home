@@ -18,6 +18,9 @@ actions:
   - text: 文档
     link: ./guide/
 
+  - text: 请帮助我们选择！强烈期待您的反馈！
+    link: https://www.bilibili.com/opus/831566249026650212
+
 highlights:
   - header: 易于安装
     image: /assets/image/box.svg
